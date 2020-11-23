@@ -1,0 +1,13 @@
+.transactionHistory {
+    margin: 0 auto;
+    width: 40%;
+    border-spacing: 0px;
+}
+
+.headContainer {
+    background-color: rgb(172, 172, 236);
+}
+
+.itemContainer {
+    text-align: center;
+}

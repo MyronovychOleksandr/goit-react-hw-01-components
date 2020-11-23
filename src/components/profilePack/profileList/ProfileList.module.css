@@ -1,0 +1,28 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.item {
+list-style-type: none;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background: rgb(188, 226, 233);
+border: 1px solid #999;
+width: 33%;
+height: 70px;
+}
+
+.label {
+    color: #777;
+    margin-bottom: 10px;
+}
+
+.quantity {
+    font-weight: 700;
+}
